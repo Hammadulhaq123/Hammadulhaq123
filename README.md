@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 <div id="badges">
+  <a href="https://hammadulhaq123.github.io/hammad.github.io/"><img src="https://img.shields.io/badge/Portfolio-Yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="https://www.linkedin.com/in/hammad-ul-haq-021a7925a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:hammadamir966@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://www.instagram.com/_hammad_ul_haq_/"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/></a>
@@ -30,7 +31,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hammad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-ul-haq-021a7925a/)
 
-- :man_technologist:My Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-gray?style=flat&logo=Telegram&logoColor=white)](https://madi.42web.io/)
 
 ---
 
