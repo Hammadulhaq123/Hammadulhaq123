@@ -57,5 +57,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hammadulhaq123&theme=dark&hide_border=true&border_radius=15&dates=00000000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammadulhaq123&theme=dark&hide_border=true)](https://github.com/Hammadulhaq123/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erdum&theme=dark&hide_border=true&border_radius=15&dates=00000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammadulhaq123&theme=dark&hide_border=true)](https://github.com/erdum/github-readme-stats)
