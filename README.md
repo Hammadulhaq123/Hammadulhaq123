@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 <div id="badges">
-<!--   <a href="https://hammadulhaq123.github.io/hammad.github.io/"><img src="https://img.shields.io/badge/Portfolio-Yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Portfolio Badge"/></a> -->
+  <a href="https://hammadulhaq123.github.io/hammad.github.io/"><img src="https://img.shields.io/badge/Portfolio-Yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="https://www.linkedin.com/in/hammad-ul-haq-021a7925a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:hammadamir966@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://www.instagram.com/_hammad_ul_haq_/"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/></a>
@@ -52,10 +52,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadulhaq123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadulhaq123&layout=compact&theme=vision-friendly-dark)](https://github.com/erdum/github-readme-stats)
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erdum&theme=dark&hide_border=true&border_radius=15&dates=00000000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammadulhaq123&theme=dark&hide_border=true)](https://github.com/erdum/github-readme-stats)
+
