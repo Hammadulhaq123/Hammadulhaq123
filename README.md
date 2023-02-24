@@ -52,7 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdum&layout=compact&theme=vision-friendly-dark)](https://github.com/erdum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadulhaq123&layout=compact&theme=vision-friendly-dark)](https://github.com/Hammadulhaq123/github-readme-stats)
 
 ---
 
